@@ -11,7 +11,7 @@ import { KellyCalculator } from './components/KellyCalculator';
 import { AlertsFeed } from './components/AlertsFeed';
 import { CommandPalette } from './components/CommandPalette';
 import { ThesisModal } from './components/ThesisModal';
-import { WelcomeScreen } from './components/WelcomeScreen';
+
 import { AuthModal, UserSession } from './components/AuthModal';
 import {
   initialAssets,
